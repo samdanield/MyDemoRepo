@@ -11,6 +11,8 @@ public class MainClass {
 
 	private static void greetings() {
 		System.out.println("Hello!");
+		System.out.println("Good Morning!");
+		System.out.println("Greetings to all!");
 	}
 
 }
