@@ -7,7 +7,9 @@ public class SalesClass {
 		
 		System.out.println("Display Method");
 		for(int i=0;i<arr.length;i++)
+			
 			System.out.println(arr[i]);
+		System.out.println("output");
 	}
 
 }
